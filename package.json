@@ -2,6 +2,8 @@
   "name": "react-template",
   "version": "0.1.0",
   "private": false,
+  "author":"<% author %>",
+  "description":"<% description %>",
   "dependencies": {
     "@babel/core": "7.9.0",
     "@svgr/webpack": "4.3.3",
